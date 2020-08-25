@@ -1,3 +1,120 @@
+<<<<<<< HEAD
+=======
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700");
+* {
+    box-sizing: border-box;
+}
+
+
+.profilePicture {
+    width: 150px;
+    border-radius: 75px;
+    margin: 30px;
+    
+}
+.fullPage {
+    display: flex;
+    flex-direction: column;
+}
+.roboto {
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+.part1 {
+    margin: 100px;
+    border: 2px lightblue dashed;
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    align-items: center;
+}
+html,
+body {
+  font-family: roboto;
+  font-size: 10px;
+  line-height: 3.5em;
+  font-weight: 300;
+  margin: 0.0;
+  padding: 0.0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ font-family: Roboto Condensed
+}
+
+h3 {
+  font-size: 4.2em;
+  text-align: center;
+  line-height: 1em;
+}
+
+h4 {
+  font-size: 1.5em;
+  letter-spacing: 0.4px;
+  line-height: 1em;
+  margin: 15px;
+}
+
+h5 {
+  font-size: 1.2em;
+  line-height: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.firstboxes,
+.secondboxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#maindiv {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.box {
+  font-size: 1.7em;
+  text-align: left;
+  border: 2px solid #eee;
+  border-radius: 20px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 10px 0 lightblue;
+  margin: 50px 5px 0px 5px;
+  padding: 20px;
+  width: 40%;
+}
+
+.box img {
+    width: 50px;
+    height: 50px;
+    margin: 0px 90%;
+<<<<<<< HEAD
+}
+
+.container1 {
+    <<<<<<< HEAD
+        border-right: 2px dotted lightblue;
+        border-right: 2px dotted lightblue;
+        margin-right: 100px;
+        padding-right: 100px;
+    }
+=======
+}
+
+=======
+>>>>>>> bad0fa1febdb6569f43fea273e2f41323ab932f3
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
 
 
@@ -77,5 +194,16 @@ h5 {
 }
 
 .container1 {
+<<<<<<< HEAD
     border-right: 2px dotted lightblue
 }
+=======
+    border-right: 2px dotted lightblue;
+    margin-right: 100px;
+    padding-right: 100px;
+}
+=======
+>>>>>>> ce4545044f9d66c2da31720335555557b0526c10
+>>>>>>> ea7ddca1714ba0badcfb638cd8c5a9ff471c92ab
+>>>>>>> 1f906cc279c3f790816117847dcd2912aff00b27
+>>>>>>> bad0fa1febdb6569f43fea273e2f41323ab932f3
